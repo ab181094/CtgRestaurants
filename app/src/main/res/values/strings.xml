@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Ctg Restaurants</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign up</string>
+
+    <string name="restaurant_s_name">Restaurant\'s Name</string>
+    <string name="owner_s_name">Owner\'s Name</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="capacity">Capacity</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="next">Next</string>
+    <string name="default_notification_channel_id">Ctg Restaurants</string>
+    <string name="insert_url">https://alittlelearning.000webhostapp.com/android/eat/insert.php</string>
+    <string name="first">First</string>
+    <string name="auth">Authentication</string>
+    <string name="reg_url">https://alittlelearning.000webhostapp.com/android/eat/reg.php</string>
+    <string name="permission_rationale">"External storage permissions are needed for picture"</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="sign_in">Sign in</string>
+    <string name="owner">Owner</string>
+    <string name="add_food_item">Add Food Item</string>
+    <string name="item_s_name">Item\'s Name</string>
+    <string name="price">Price</string>
+    <string name="save">Save</string>
+    <string name="your_name">Your Name</string>
+    <string name="occasion">Occasion</string>
+    <string name="number_of_persons">Number of Persons</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="items_to_be_served">Items to be Served</string>
+    <string name="advance_booking">Advance Booking</string>
+    <string name="i_don_t_have_an_account"><u>I don\'t have an account</u></string>
+    <string name="restaurants_url">https://alittlelearning.000webhostapp.com/android/eat/restaurants.php</string>
+    <string name="view_restaurant_in_map">View Restaurant in Map</string>
+    <string name="get_foods_url">https://alittlelearning.000webhostapp.com/android/eat/get_foods.php</string>
+    <string name="foods_url">https://alittlelearning.000webhostapp.com/android/eat/foods.php</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="foods">Foods</string>
+    <string name="nearby_restaurants">Nearby Restaurants</string>
+    <string name="update_res_url">https://alittlelearning.000webhostapp.com/android/eat/update_res.php</string>
+    <string name="update_food_url">https://alittlelearning.000webhostapp.com/android/eat/update_food.php</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="delete_message">Are you sure to delete all of your data permanently ?</string>
+    <string name="add_food">Add Food</string>
+    <string name="special_offers">Special Offers</string>
+    <string name="add_users">Add Users</string>
+    <string name="sign_out">Sign out</string>
+    <string name="information">Information</string>
+    <array name="type_array">
+        <item>Drinks</item>
+        <item>Meal</item>
+        <item>Snacks</item>
+    </array>
+    <string name="title_activity_owner">Owner</string>
+    <string name="type">Type</string>
+    <string name="image">Image</string>
+    <string name="rating">Rating</string>
+    <string name="rate">Rate</string>
+    <string name="feedback">Thanks for your feedback</string>
+    <string name="delete_food">Are you sure to delete this food item?</string>
+    <string name="delete_url">https://alittlelearning.000webhostapp.com/android/eat/delete.php</string>
+    <string name="delete_food_url">https://alittlelearning.000webhostapp.com/android/eat/delete_food.php</string>
+    <string name="title">Title</string>
+    <string name="write_here">Write here</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="send_url">https://alittlelearning.000webhostapp.com/android/eat/notify.php</string>
+    <string name="add_book_url">https://alittlelearning.000webhostapp.com/android/eat/book.php</string>
+    <string name="get_book_url">https://alittlelearning.000webhostapp.com/android/eat/get_book.php</string>
+    <string name="search">Search</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="special_request">Special Request</string>
+    <string name="submit">Submit</string>
+    <string name="developers_info">Developers\' Info</string>
+    <string name="title_activity_dev">Developers</string>
+    <string name="amrit_bhattacharjee">Amrit Bhattacharjee</string>
+    <string name="amritcsecu_gmail_com">amritcsecu@gmail.com</string>
+    <string name="university_of_chittagong">University of Chittagong</string>
+    <string name="sourav_deb_roy">Sourav Deb Roy</string>
+    <string name="nahian_pervez">Nahian Pervez</string>
+    <string name="perveznahian_gmail_com">perveznahian@gmail.com</string>
+    <string name="university_of_science_technology_chittagong"><![CDATA[University of Science & Technology, Chittagong]]></string>
+    <string name="name">Name</string>
+    <string name="time">Time</string>
+    <string name="items">Items</string>
+    <string name="eating_is_not_a_sin">Eating is not a sin</string>
+    <string name="slogan">Eat Healthy, Be Happy</string>
+</resources>

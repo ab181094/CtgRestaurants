@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "930991160467",
+    "firebase_url": "https://ctgrestaurants.firebaseio.com",
+    "project_id": "ctgrestaurants",
+    "storage_bucket": "ctgrestaurants.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930991160467:android:6535cedf1d5d1a4a",
+        "android_client_info": {
+          "package_name": "com.csecu.amrit.ctgrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930991160467-jpr3vmbk2cig5k9bo4ujh46m7st4ejjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csecu.amrit.ctgrestaurants",
+            "certificate_hash": "7159c0e11205de9942ba36f3ae59e3904b875756"
+          }
+        },
+        {
+          "client_id": "930991160467-srnvtb5ot09ibfss7is5adbdb2e4bscd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWCZQdEpS7jvQxNnHm2VImRvZKCDHP1E4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930991160467-srnvtb5ot09ibfss7is5adbdb2e4bscd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

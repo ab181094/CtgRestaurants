@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_restaurants"
+            android:icon="@drawable/ic_restaurant"
+            android:title="@string/restaurants" />
+        <item
+            android:id="@+id/home_foods"
+            android:icon="@drawable/ic_food"
+            android:title="@string/foods" />
+        <item
+            android:id="@+id/home_nearby"
+            android:icon="@drawable/ic_near_me"
+            android:title="@string/nearby_restaurants" />
+    </group>
+
+    <item android:title="@string/owner">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/home_login"
+                    android:icon="@drawable/ic_login"
+                    android:title="@string/sign_in" />
+                <item
+                    android:id="@+id/home_reg"
+                    android:icon="@drawable/ic_reg"
+                    android:title="@string/sign_up" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

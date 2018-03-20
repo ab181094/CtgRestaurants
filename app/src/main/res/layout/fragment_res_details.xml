@@ -1,0 +1,56 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.csecu.amrit.ctgrestaurants.fragments.ResDetailsFragment">
+
+
+    <include layout="@layout/content_res_details" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:orientation="vertical">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/res_details_fab_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="@dimen/fab_margin"
+            android:layout_marginTop="@dimen/fab_margin"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/ic_action_delete" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/res_details_fab_update"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="@dimen/fab_margin"
+            android:layout_marginTop="@dimen/fab_margin"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/ic_action_edit" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/res_details_fab_booking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="@dimen/fab_margin"
+            android:layout_marginTop="@dimen/fab_margin"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/ic_action_book" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/res_details_fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="@dimen/fab_margin"
+            android:visibility="visible"
+            app:srcCompat="@drawable/ic_action_add" />
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>
